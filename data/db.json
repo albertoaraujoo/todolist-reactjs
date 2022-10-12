@@ -1,0 +1,54 @@
+{
+  "allTasks": [
+    {
+      "id": 1,
+      "task": "estudar javascript",
+      "time": "18:00"
+    },
+    {
+      "id": 2,
+      "task": "ir para academia",
+      "time": "11 da manhã"
+    },
+    {
+      "task": "fazer o jantar",
+      "time": "18hr",
+      "id": 3
+    },
+    {
+      "task": "ir para universidade",
+      "time": "7am",
+      "id": 4
+    },
+    {
+      "task": "escovar os dentes",
+      "time": "assim que acordar",
+      "id": 5
+    },
+    {
+      "task": "Remédio do gato",
+      "time": "12h",
+      "id": 6
+    },
+    {
+      "task": "cuidar das plantas",
+      "time": "17h",
+      "id": 7
+    },
+    {
+      "task": "estudar react",
+      "time": "13h",
+      "id": 8
+    },
+    {
+      "task": "work",
+      "time": " 20h",
+      "id": 9
+    },
+    {
+      "task": "Estudar python",
+      "time": "18:45",
+      "id": 13
+    }
+  ]
+}
